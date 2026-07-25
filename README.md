@@ -1,5 +1,7 @@
 # Affinity Linux 中文界面修复
 
+**语言 / 語言 / 언어 / 言語**: [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
+
 修复 [AffinityLinux](https://github.com/ryzendew/Linux-Affinity-Installer) AppImage 版本切换中文界面后，所有中文显示为方块（"口口"）的问题。
 
 > English: This repo fixes the "all Chinese UI text shows as tofu boxes" issue of the Affinity AppImage for Linux. It contains **documentation and a fix script only** — no font files and no Affinity binaries (see [法律与版权](#法律与版权) / Legal below). Jump to [Quick start](#快速开始).
@@ -7,6 +9,12 @@
 ## 问题现象
 
 AppImage 启动正常，但在 设置 → 常规 → 语言 切换为中文后，界面上的中文全部变成方块。
+
+## 修复效果
+
+![修复后的中文界面](docs/screenshot-fixed.jpg)
+
+菜单、面板、画布文字均正常显示（修复方案见下文）。
 
 ## 根因分析（三个叠加的坑）
 
