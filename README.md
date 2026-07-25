@@ -52,6 +52,10 @@ AppImage 启动正常，但在 设置 → 常规 → 语言 切换为中文后�
 AFFINITY_PREFIX=/你的/prefix 路径 ./fix-affinity-chinese.sh /media/usb/Windows/Fonts
 ```
 
+## 给 LLM Agent 用
+
+如果你想让自己常用的 LLM Agent（Kimi Code、Claude Code、Cursor 等）来自动完成修复，直接把 [FOR_LLM_AGENT.md](FOR_LLM_AGENT.md) 的内容复制粘贴给它即可。里面写明了全部已确诊根因、禁区和验证步骤，Agent 拿到后可以直接开工，不需要重新排查。
+
 ## 手动修复（等价步骤）
 
 1. 关闭 Affinity；
