@@ -1,5 +1,7 @@
 # Affinity Linux 日本語UI修正
 
+> **🚀 Powered by Kimi K3** — 本プロジェクトの問題調査、修正方法、スクリプト、ドキュメントはすべて Kimi K3 によって作成されました。
+
 **语言 / 語言 / 언어 / 言語**: [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
 
 [AffinityLinux](https://github.com/ryzendew/Linux-Affinity-Installer) AppImage 版で UI 言語を日本語に切り替えると、すべての日本語が四角（「□□」、いわゆる豆腐）で表示される問題を修正します。

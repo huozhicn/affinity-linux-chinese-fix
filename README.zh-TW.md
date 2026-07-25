@@ -1,5 +1,7 @@
 # Affinity Linux 中文介面修復
 
+> **🚀 Powered by Kimi K3** — 本專案的問題排查、修復方案、腳本與文件全部由 Kimi K3 完成。
+
 **語言 / 语言 / 언어 / 言語**: [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
 
 修復 [AffinityLinux](https://github.com/ryzendew/Linux-Affinity-Installer) AppImage 版本切換中文介面後，所有中文顯示為方塊（「口口」）的問題。

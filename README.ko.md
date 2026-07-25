@@ -1,5 +1,7 @@
 # Affinity Linux 한국어 UI 수정
 
+> **🚀 Powered by Kimi K3** — 이 프로젝트의 문제 진단, 수정 방안, 스크립트와 문서는 모두 Kimi K3가 작성했습니다.
+
 **语言 / 語言 / 언어 / 言語**: [简体中文](README.md) | [繁體中文](README.zh-TW.md) | [한국어](README.ko.md) | [日本語](README.ja.md)
 
 [AffinityLinux](https://github.com/ryzendew/Linux-Affinity-Installer) AppImage 버전에서 UI 언어를 한국어로 변경하면 모든 한글이 네모("□□")로 표시되는 문제를 수정합니다.
